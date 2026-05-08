@@ -33,7 +33,7 @@ Configuration
 Edit these values in the script:
 
 JELLYFIN_SERVER
-Example: http://192.168.1.6:8096
+Example: http://localhost:8096
 
 JELLYFIN_API_KEY
 Your Jellyfin API token
